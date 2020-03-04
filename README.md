@@ -2,7 +2,7 @@
 A _very_ minimal deb package building tutorial for Fortran code from scratch using debhelper.
 
 ## Introduction
-Borne out of a dearth of tutorials on a quick and dirty way of creating a deb package, this tutorial aims to introduce debian packaging in its most simplest form. The tutorial is made as concise as possible and may skim over finer details.  
+Borne out of a dearth of information on a quick and dirty way of creating a deb package, this tutorial aims to introduce debian packaging in its most simplest form. The tutorial is made as concise as possible and may skim over finer details.  
 
 ### Let's get a few things straight!
 1. It is assumed that you know your way around Linux and have used package maintainers (like apt) to install programs.
