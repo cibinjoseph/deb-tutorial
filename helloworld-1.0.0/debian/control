@@ -1,0 +1,13 @@
+Source: helloworld
+Section: devel
+Priority: optional
+Maintainer: Cibin Joseph
+Build-Depends: cmake, debhelper
+Standards-Version: 4.1
+
+Package: helloworld
+Architecture: any
+Multi-arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Hello world program
+This program prints out hello world
